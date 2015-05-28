@@ -15,3 +15,6 @@ http://stream13.qqmusic.qq.com/32454916.mp3
 http://stream13.qqmusic.qq.com/32453492.mp3
 
 
+在线音频测试地址:
+
+http://krtv.qiniudn.com/150522nextapp
